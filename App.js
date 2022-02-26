@@ -6,7 +6,7 @@ import { NavigationContainer } from '@react-navigation/native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>IG_Clone github test 2</Text>
+      <Text>IG_Clone github test 11</Text>
       <StatusBar style="auto" />
     </View>
   );
